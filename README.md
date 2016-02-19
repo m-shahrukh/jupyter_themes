@@ -1,8 +1,14 @@
 # Jupyter themes
 
-75 syntax highlighting themes to choose from:
+This repository provides syntax and notebook color schemes based on [Dayle Rees' popular colo~~u~~r schemes](https://github.com/daylerees/colour-schemes) that are available for most text editors.
 
-![ example image ](http://lh3.googleusercontent.com/7Oc3PuBnm79ES9bK65hX4tfNvYwpW5oSU_G1FwKGe6xDlsWUzirnedFBtXgdUjkKh0tePzvG6W3sHfmucZWZiKScqQ=s1600)
+Here's an example:
+
+![ example image ](screenshot.png)
+
+The styling is based on [Dunovank's jupyter themes](https://github.com/dunovank/jupyter-themes).
+
+The remainder of this README is verbatim from [Merqurio's jupyter themes](https://github.com/merqurio/jupyter_themes) repository (which is the origin of this fork).
 
 ## Notebook theme selector
 
@@ -29,8 +35,6 @@ if (Jupyter) {
   });
 }
 ```
-
-Syntax highlighting was built using [base-16 builder](https://github.com/chriskempson/base16-builder).
 
 ## License
 
